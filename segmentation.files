@@ -1,0 +1,15 @@
+include/face.hpp
+include/mesh.hpp
+src/edge.cpp
+include/edge.hpp
+include/utils.hpp
+src/face.cpp
+src/main.cpp
+src/mesh.cpp
+src/skeletonization.cpp
+src/utils.cpp
+src/vertex.cpp
+src/segmentation.cpp
+src/plane.cpp
+include/plane.hpp
+include/vertex.hpp
